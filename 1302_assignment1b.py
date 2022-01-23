@@ -7,7 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1So1M2lQuOWMAQ5FivQsaNSpxRdZUmaLK
 """
 
-''' 2) Consider the following string: nums = '10,20,30,40,50'
+''' 
+iolo jones, 1302 PRINC OF PROG FOR DATA SCI II
+iolojones41@student.gsu.edu
+
+2) Consider the following string: nums = '10,20,30,40,50'
 
 Create a Python script that creates a list of integers from the string.
 
