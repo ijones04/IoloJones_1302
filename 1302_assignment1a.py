@@ -7,7 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1mNYbpkidhbo1RjdYDZ2tHADJWVjZAQG_
 """
 
-''' 1) Create a Python script that asks the user for a number and then prints out a list of all the divisors of each number less than the asked number. '''
+''' 
+iolo jones, 1302 PRINC OF PROG FOR DATA SCI II
+iolojones41@student.gsu.edu
+
+1) Create a Python script that asks the user for a number and then prints out a list of all the divisors of each number less than the asked number. '''
 
 print("Please enter a positive integer:")
 number = int(input())
